@@ -38,11 +38,4 @@ public class GCD {
   public void display() {
     
     System.out.println("The greatest common divisor of "+value1+" and "+value2+" is "+gcd);}
-    
-
- public static void main(String[] args) {
-
-
- }
-
 }
